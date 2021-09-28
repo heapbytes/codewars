@@ -1,2 +1,2 @@
 # codewars
-Some of the kata programmed in python3
+Some of Codewars kata programmed in Python3
