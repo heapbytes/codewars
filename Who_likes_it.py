@@ -1,6 +1,5 @@
 #!/bin/python3
 
-#Author : Gourav Suram
 #Kata link : https://www.codewars.com/kata/5266876b8f4bf2da9b000362/
 #Title : Who likes it?
 
