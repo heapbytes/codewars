@@ -1,6 +1,5 @@
 #!/bin/python3
 
-#Author : Gourav Suram (Cli3nt)
 #Kata link : https://www.codewars.com/kata/526233aefd4764272800036f/train/python
 #Title : Matrix Addition
 
